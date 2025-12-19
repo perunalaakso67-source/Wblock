@@ -1,1 +1,2 @@
-console.log("WBlock toimii");
+console.log("WBlock JavaScript toimii");
+
